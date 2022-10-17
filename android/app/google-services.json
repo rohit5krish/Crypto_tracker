@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "520696723595",
+    "project_id": "crypto-app-cc571",
+    "storage_bucket": "crypto-app-cc571.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520696723595:android:5280ce1098f8ad6c31bc8e",
+        "android_client_info": {
+          "package_name": "com.example.triveous_machine_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520696723595-pgf9md508qs1fj86t7jrnmu3c4envss2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEqvem4AaWdU1QVt5zB1g881wzSbmTlRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520696723595-pgf9md508qs1fj86t7jrnmu3c4envss2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
